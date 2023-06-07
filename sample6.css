@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(238, 86, 86);
+}
+.image{
+    background-image: url('pink.avif');
+    height:60vh;
+    width:50vw;
+    margin-top: 100px;
+}
+.better{
+    float: right;
+    margin-top: -450px;
+    margin-right: 300px;
+    background-color: white;
+    z-index: 5;
+    width: 600px;
+    height: 500px;
+    margin-left: 30px;
+}
+.awesome{
+    color: orange;
+    margin-left: 15px;
+}
+.dollar{
+    margin-left: 500px;
+    margin-top: -10px;
+}
+.violet{
+    color: violet;
+}
+.red{
+    color: red;
+}
+.yellow{
+    color: yellow;
+}
+.green{
+    color: green;
+}
+.ab{
+    border: none;
+}
+.ac{
+    border: none;
+}
+.ad{
+    border-radius: 30px;
+}
+.ae{
+    border: none;
+}
+.common{
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    height: 50px;
+    width: 200px;
+    margin-top:70px;
+    margin-left: 100px;
+}
+.size{
+    margin-left: 10px;
+}
+.font{
+    margin-left: 15px;
+}
+.men{
+    margin-left: 15px;
+}
+.wishlist{
+    margin-left: 150px;
+}

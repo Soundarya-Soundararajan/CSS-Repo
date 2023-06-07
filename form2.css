@@ -1,0 +1,66 @@
+body{
+    background-image: linear-gradient(rgb(10, 80, 116),green);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form{
+    background-image: linear-gradient(rgb(12, 12, 61), rgb(6, 71, 6));
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.frm{
+text-align: left;
+}
+*{
+    color: white;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 420px;
+    border: black;
+    padding: 5px;
+}
+*{
+   text-decoration: none;
+}
+.color{
+    color: blue;
+
+}
+input[type=text]{
+    width: 400px;
+    margin: 10px;
+    padding: 5px;
+}
+input[type=password]{
+    width: 400px;
+    margin: 10px;
+    padding: 5px;
+    }
+.alignment{
+    padding-left: 190px;
+}
+h4{
+    text-align: center;
+    padding-right: 100px;
+}
+h5{
+  padding-left: 120px;
+}
+
+h1{
+    text-align: center;
+}
+.not{
+  margin-left: 150px;
+  margin-top: 15px;
+}
+label{
+    margin-left: 15px;
+}

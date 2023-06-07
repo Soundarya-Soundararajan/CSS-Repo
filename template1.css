@@ -1,0 +1,48 @@
+body{
+    background-image: url('Financial\ Consultant2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    font-size: large;
+}
+.nav{
+    float: right;
+    word-spacing: 15px;
+    margin-right: 30px;
+    margin-top: -70px;
+}
+*{
+    text-decoration: none;
+}
+a:hover{
+    color: yellowgreen;
+}
+a{
+    color: white;
+}
+.head{
+    margin-top: 80px;
+    margin-left: 75px;
+    font-size: large;
+}
+h4{
+    color: yellowgreen;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+button{
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 20px;
+    padding: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

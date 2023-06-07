@@ -1,0 +1,42 @@
+body{
+    background-image: url("Hotel.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-image: linear-gradient(orange,yellow);
+    opacity: 50px; */
+}
+.nav{
+    width: 100px;
+    padding: 2px;
+    padding-right: 20px;
+    float: right;
+}    
+.head{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-top: 250px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.mainlogo{
+    margin-left: 150px;
+    float: left;
+    margin-top: 10px;
+    letter-spacing: 5px;
+}
+.logo{
+    float: right;
+    word-spacing: 30px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+button{
+    margin-left: 650px;
+    height: 50px;
+    border-radius: 30px;
+    width: 200px;
+}

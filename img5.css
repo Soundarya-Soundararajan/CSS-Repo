@@ -1,0 +1,113 @@
+.container{
+    float: right;
+    margin-top: -40px;
+    word-spacing: 30px;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    /* background-color: blueviolet; */
+    color: darkorange;
+}
+h3{
+    font-style: italic;
+    margin-left: 20px;
+}
+.head{
+    background-image: url('Workspace\ Image.jpg');
+    padding-top: 75px;
+    width: 100%;
+    height: 330px;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+.icon1{
+    width: 200px;
+    margin-left: 200px;
+    padding: 50px;
+}
+.icon2{
+    width: 200px;
+    margin-left:600px;
+    margin-top: -330px;
+}
+.icon3{
+    width: 200px;
+    margin-left: 1000px;
+    margin-top: -265px;
+}
+.i1{
+    width: 100px;
+    color: deeppink;
+}
+.i2{
+    width: 100px;
+    color: mediumblue;
+}
+.i3{
+    width: 100px;
+    color: crimson;
+}
+button{
+    color: black;
+    background-color: aqua;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 3px;
+    }
+button:hover{
+    background-color: chartreuse;
+}
+.about{
+    width: 700px;
+    margin-left: 120px;
+    padding: 100px;
+    background-repeat: no-repeat;
+    font-size: large;
+}
+img{
+    float: right;
+    margin-top: -320px;
+    width: 430px;
+    margin-right: 80px;
+}
+.footercontent{
+    background-color: rgb(55, 47, 77);
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.moreinfo{
+    margin-left: 1050px;
+    color: white;
+    margin-bottom: 10px;
+    padding-bottom: -100px;
+    margin-top: 50px;
+}
+.a1{
+    color: white;
+    margin-left: 1080px;
+    display: block;
+    margin-top: 10px;
+}
+.a2{
+    color: white;
+    margin-left: 1079px;
+    display: block;
+    margin-top: 10px;
+}
+.a3{
+    color: white;
+    margin-left: 1075px;
+    display: block;
+    margin-top: 10px;
+}
+.link{
+    margin-top: -50px;
+}

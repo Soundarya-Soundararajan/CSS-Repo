@@ -1,0 +1,14 @@
+body{
+    background-image: url('Modern\ City.jpg');
+    background-size: cover;
+}
+.demo{
+ background-color: antiquewhite;
+ margin-top: 200px;
+ margin-left: 400px;
+ margin-right: 600px;
+ /* padding:50px; */
+ font-size: x-large;
+ /* opacity: 40px; */
+ text-align: center;
+ }

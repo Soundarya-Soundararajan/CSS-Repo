@@ -1,0 +1,56 @@
+body{
+    background-image: url('edu\ meeting123.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    text-decoration: none;
+    color: white;
+}
+h3{
+    margin-left: 20px;
+}
+.nav{
+    float: right;
+    word-spacing: 13px;
+    margin-top: -40px;
+    margin-right: 20px;
+}
+.mainhead{
+    font-size: large;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+button{
+    color: white;
+    background-color: brown;
+    border-radius: 20px;
+    padding: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+}
+.mainicon{
+    display: flex;
+    text-align: center;
+    margin-top: 120px;
+    width: 1500px;
+    height: 200x;
+}
+.icon1{
+    background-color: deeppink;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.icon2{
+    background-color: deeppink;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.icon3{
+    background-color: deeppink;
+    border-radius: 20px;
+    margin-right: 50px;
+}

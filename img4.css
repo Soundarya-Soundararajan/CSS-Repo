@@ -1,0 +1,39 @@
+body{
+    background-image: url("Education-1\ Image.jpg");
+    background-size: cover;
+}
+button{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 10px;
+    border-color: gray;
+    margin-left: 20px;
+}
+.nav{
+    float: right;
+    word-spacing: 8px;
+    font-size: larger;
+    padding-right: 20px;
+}
+*{
+    text-decoration: none;
+    color: white;
+}
+.main h3{
+    font-size: 50px;
+    color: white;
+}
+.main p{
+    font-size: 30px;
+    color: white;
+}
+.main{
+    margin-top: 150px;
+    text-align: justify;
+}
+h1{
+    font-size: 70px;
+    margin-top: 0px;
+}
