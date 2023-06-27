@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(244, 116, 116);
+}
+.image{
+    background-image: url(Shoe\ image\ 1.jpg);
+    height: 50vh;
+    width: 50vw;
+    
+}
+.stars{
+    color: gold;
+}
+.dollar{
+    float: right;
+    font-size: 28px;
+}
